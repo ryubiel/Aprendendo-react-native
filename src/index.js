@@ -14,17 +14,17 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#c2bfbc',
+    backgroundColor: '#CAFFD0',
     alignItems: 'center',
     justifyContent: 'center',
   },
   bv:{
-    color: '#540c87',
+    color: '#ca3cff',
     fontSize: 50,
     fontWeight: 'bold',
   },
   primeiro: {
-    color: '#eba34b',
+    color: '#b4a0e5',
     fontSize: 25,
     fontStyle: 'italic',
     textShadowColor:'#000000',
